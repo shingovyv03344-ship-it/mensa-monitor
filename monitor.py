@@ -17,6 +17,9 @@ BASE_URL = "https://mensa.jp"
 EXAM_URL = f"{BASE_URL}/exam/"
 STATE_FILE = "state.json"
 
+# 通知対象の都道府県（関東のみ）
+TARGET_PREFS = ["東京都", "神奈川県", "埼玉県", "千葉県", "茨城県", "栃木県", "群馬県"]
+
 
 def fetch_page() -> str:
     headers = {
@@ -146,6 +149,10 @@ def main() -> None:
         eid = exam["id"]
         new_state_exams[eid] = exam
         prev = prev_exams.get(eid)
+
+        # 関東以外はスキップ
+        if not any(pref in exam["pref"] for pref in TARGET_PREFS):
+            continue
 
         if prev is None:
             # 新しい試験枠
