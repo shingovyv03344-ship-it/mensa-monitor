@@ -63,6 +63,20 @@
       "status": "full",
       "url": ""
     },
+    "e4c913156990": {
+      "id": "e4c913156990",
+      "pref": "石川県 \n 6/21",
+      "date": "日時 ： 2026/06/21(日)　13:30~14:30 \n\t\t\t\t場所 ： 石川県金沢市 \n\t\t\t\tこのテストは石川県、富山県、福井県、新潟県、群馬県の方のみお申込みいただけます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/724/"
+    },
+    "8495852717af": {
+      "id": "8495852717af",
+      "pref": "石川県 \n 6/21",
+      "date": "日時 ： 2026/06/21(日)　15:00~16:00 \n\t\t\t\t場所 ： 石川県金沢市 \n\t\t\t\tこのテストは石川県、富山県、福井県、新潟県、群馬県の方のみお申込みいただけます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/725/"
+    },
     "316a0ddf8869": {
       "id": "316a0ddf8869",
       "pref": "大阪府 \n 5/10",
@@ -83,6 +97,27 @@
       "date": "日時 ： 2026/05/10(日)　15:00~16:00 \n\t\t\t\t場所 ： 大阪府大阪市中央区 \n\t\t\t\tこのテストには、大阪府、滋賀県、京都府、兵庫県、奈良県、和歌山県在住の方が申し込めます。",
       "status": "full",
       "url": ""
+    },
+    "f7a68d2636ad": {
+      "id": "f7a68d2636ad",
+      "pref": "兵庫県 \n 6/21",
+      "date": "日時 ： 2026/06/21(日)　10:00~11:00 \n\t\t\t\t場所 ： 兵庫県神戸市中央区 \n\t\t\t\tこのテストには、兵庫県、大阪府、和歌山県、奈良県在住の方が申し込めます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/718/"
+    },
+    "cd292431a73d": {
+      "id": "cd292431a73d",
+      "pref": "兵庫県 \n 6/21",
+      "date": "日時 ： 2026/06/21(日)　12:00~13:00 \n\t\t\t\t場所 ： 兵庫県神戸市中央区 \n\t\t\t\tこのテストには、兵庫県、大阪府、和歌山県、奈良県在住の方が申し込めます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/719/"
+    },
+    "ed81c95bf7d4": {
+      "id": "ed81c95bf7d4",
+      "pref": "兵庫県 \n 6/21",
+      "date": "日時 ： 2026/06/21(日)　13:30~14:30 \n\t\t\t\t場所 ： 兵庫県神戸市中央区 \n\t\t\t\tこのテストには、兵庫県、大阪府、和歌山県、奈良県在住の方が申し込めます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/720/"
     },
     "b6459e73728b": {
       "id": "b6459e73728b",
@@ -120,5 +155,5 @@
       "url": "https://mensa.jp/exam/index/notice/id/702/"
     }
   },
-  "last_checked": "2026-04-21T12:11:09.257034"
+  "last_checked": "2026-04-21T14:08:34.095818"
 }
