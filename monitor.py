@@ -107,13 +107,27 @@ def send_line_message(text: str) -> None:
     resp.raise_for_status()
 
 
+def extract_exam_id(url: str) -> str:
+    """URLから試験IDを抽出する。例: .../id/715/ → 715"""
+    parts = [p for p in url.rstrip("/").split("/") if p]
+    try:
+        idx = parts.index("id")
+        return parts[idx + 1]
+    except (ValueError, IndexError):
+        return ""
+
+
 def build_message(exam: dict, reason: str) -> str:
+    exam_id = extract_exam_id(exam.get("url", ""))
+    register_cmd = f"\n自動申込コマンド:\npython register.py {exam_id}" if exam_id else ""
+
     if reason == "new_available":
         header = "【MENSA】新しい試験日程が公開されました！"
         body = (
             f"{exam['pref']}\n"
             f"{exam['date']}\n\n"
-            f"今すぐ申し込む:\n{exam['url']}"
+            f"申込URL:\n{exam['url']}"
+            f"{register_cmd}"
         )
     elif reason == "new_full":
         header = "【MENSA】新しい試験日程（満員）が追加されました"
@@ -123,7 +137,8 @@ def build_message(exam: dict, reason: str) -> str:
         body = (
             f"{exam['pref']}\n"
             f"{exam['date']}\n\n"
-            f"今すぐ申し込む:\n{exam['url']}"
+            f"申込URL:\n{exam['url']}"
+            f"{register_cmd}"
         )
     else:
         header = "【MENSA】試験日程の変更"

@@ -2,3 +2,7 @@ __pycache__/
 *.pyc
 .env
 venv/
+config.json
+photo.jpg
+*.png
+*.jpeg

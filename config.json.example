@@ -1,0 +1,21 @@
+{
+  "name1": "山田",
+  "name2": "太郎",
+  "nameEn1": "Yamada",
+  "nameEn2": "Taro",
+  "zip": "1000001",
+  "pref": "TOKYO",
+  "address": "千代田区千代田1-1",
+  "birthY": "1990",
+  "birthM": "1",
+  "birthD": "1",
+  "tel": "0312345678",
+  "mobileTel": "09012345678",
+  "mail": "your@email.com",
+  "mobileMail": "",
+  "enquete": "上記以外",
+  "testCount": "1",
+  "prevTest": "",
+  "photo_path": "photo.jpg",
+  "remark": ""
+}
