@@ -6,3 +6,5 @@ config.json
 photo.jpg
 *.png
 *.jpeg
+credentials.json
+token.json

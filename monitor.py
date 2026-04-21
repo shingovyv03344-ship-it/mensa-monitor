@@ -147,6 +147,33 @@ def build_message(exam: dict, reason: str) -> str:
     return f"{header}\n\n{body}"
 
 
+def build_consolidated_message(available: list[tuple[dict, str]]) -> str:
+    """複数の空き枠をまとめて1通のLINEメッセージにする。"""
+    new_count    = sum(1 for _, r in available if r == "new_available")
+    opened_count = sum(1 for _, r in available if r == "slot_opened")
+
+    headers = []
+    if new_count:
+        headers.append(f"新日程 {new_count}件")
+    if opened_count:
+        headers.append(f"キャンセル空き {opened_count}件")
+
+    lines = [f"【MENSA】関東の試験枠が更新されました！（{' / '.join(headers)}）", ""]
+
+    for exam, reason in available:
+        label = "🆕" if reason == "new_available" else "✅"
+        date_line = exam["date"].split("\n")[0].replace("日時 ： ", "").strip()
+        pref_line  = exam["pref"].replace("\n", " ").strip()
+        lines.append(f"{label} {pref_line}")
+        lines.append(f"   {date_line}")
+        lines.append(f"   {exam['url']}")
+        lines.append("")
+
+    lines.append("申込コマンド:")
+    lines.append("python register.py")
+    return "\n".join(lines)
+
+
 def main() -> None:
     print(f"[{datetime.utcnow().isoformat()}] Checking {EXAM_URL} ...")
 
@@ -187,7 +214,16 @@ def main() -> None:
         print("  No changes detected.")
         return
 
-    for exam, reason in notifications:
+    # 通知を種別ごとにまとめる
+    available = [(e, r) for e, r in notifications if r in ("new_available", "slot_opened")]
+    full_only  = [(e, r) for e, r in notifications if r == "new_full"]
+
+    if available:
+        msg = build_consolidated_message(available)
+        send_line_message(msg)
+        print(f"  Notified via LINE: {len(available)} available slot(s)")
+
+    for exam, reason in full_only:
         msg = build_message(exam, reason)
         send_line_message(msg)
         print(f"  Notified via LINE: [{reason}]")
