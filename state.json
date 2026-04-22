@@ -63,6 +63,27 @@
       "status": "full",
       "url": ""
     },
+    "cbc7445ac838": {
+      "id": "cbc7445ac838",
+      "pref": "東京都 \n 6/07",
+      "date": "日時 ： 2026/06/07(日)　11:30~12:30 \n\t\t\t\t場所 ： 東京都千代田区 \n\t\t\t\tこのテストには、全国の方がお申込みいただけます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/721/"
+    },
+    "5d655c0d8750": {
+      "id": "5d655c0d8750",
+      "pref": "東京都 \n 6/07",
+      "date": "日時 ： 2026/06/07(日)　13:30~14:30 \n\t\t\t\t場所 ： 東京都千代田区 \n\t\t\t\tこのテストには、全国の方がお申込みいただけます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/722/"
+    },
+    "03cf261994c5": {
+      "id": "03cf261994c5",
+      "pref": "東京都 \n 6/07",
+      "date": "日時 ： 2026/06/07(日)　15:30~16:30 \n\t\t\t\t場所 ： 東京都千代田区 \n\t\t\t\tこのテストには、全国の方がお申込みいただけます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/723/"
+    },
     "e4c913156990": {
       "id": "e4c913156990",
       "pref": "石川県 \n 6/21",
@@ -155,5 +176,5 @@
       "url": "https://mensa.jp/exam/index/notice/id/702/"
     }
   },
-  "last_checked": "2026-04-22T01:06:16.137265"
+  "last_checked": "2026-04-22T04:14:52.062926"
 }
