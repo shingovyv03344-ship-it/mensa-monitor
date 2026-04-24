@@ -123,8 +123,8 @@
       "id": "f7a68d2636ad",
       "pref": "兵庫県 \n 6/21",
       "date": "日時 ： 2026/06/21(日)　10:00~11:00 \n\t\t\t\t場所 ： 兵庫県神戸市中央区 \n\t\t\t\tこのテストには、兵庫県、大阪府、和歌山県、奈良県在住の方が申し込めます。",
-      "status": "available",
-      "url": "https://mensa.jp/exam/index/notice/id/718/"
+      "status": "full",
+      "url": ""
     },
     "cd292431a73d": {
       "id": "cd292431a73d",
@@ -176,5 +176,5 @@
       "url": "https://mensa.jp/exam/index/notice/id/702/"
     }
   },
-  "last_checked": "2026-04-24T15:16:33.089733"
+  "last_checked": "2026-04-24T16:13:42.017390"
 }
