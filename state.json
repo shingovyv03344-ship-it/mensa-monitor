@@ -39,7 +39,7 @@
       "id": "c46a7df07207",
       "pref": "東京都 \n 5/02",
       "date": "日時 ： 2026/05/02(土)　17:00~18:00 \n\t\t\t\t場所 ： 東京都港区 \n\t\t\t\tこのテストには、全国の方がお申込みいただけます。",
-      "status": "full",
+      "status": "unknown",
       "url": ""
     },
     "d02e113f133c": {
@@ -176,5 +176,5 @@
       "url": "https://mensa.jp/exam/index/notice/id/702/"
     }
   },
-  "last_checked": "2026-05-02T00:07:09.641156"
+  "last_checked": "2026-05-02T03:47:50.686854"
 }
