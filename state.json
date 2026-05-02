@@ -21,27 +21,6 @@
       "status": "available",
       "url": "https://mensa.jp/exam/index/notice/id/717/"
     },
-    "30527e4a4f5f": {
-      "id": "30527e4a4f5f",
-      "pref": "東京都 \n 5/02",
-      "date": "日時 ： 2026/05/02(土)　13:00~14:00 \n\t\t\t\t場所 ： 東京都港区 \n\t\t\t\tこのテストには、全国の方がお申込みいただけます。",
-      "status": "full",
-      "url": ""
-    },
-    "fc4bfdcc81de": {
-      "id": "fc4bfdcc81de",
-      "pref": "東京都 \n 5/02",
-      "date": "日時 ： 2026/05/02(土)　15:00~16:00 \n\t\t\t\t場所 ： 東京都港区 \n\t\t\t\tこのテストには、全国の方がお申込みいただけます。",
-      "status": "full",
-      "url": ""
-    },
-    "c46a7df07207": {
-      "id": "c46a7df07207",
-      "pref": "東京都 \n 5/02",
-      "date": "日時 ： 2026/05/02(土)　17:00~18:00 \n\t\t\t\t場所 ： 東京都港区 \n\t\t\t\tこのテストには、全国の方がお申込みいただけます。",
-      "status": "unknown",
-      "url": ""
-    },
     "d02e113f133c": {
       "id": "d02e113f133c",
       "pref": "神奈川県 \n 5/23",
@@ -176,5 +155,5 @@
       "url": "https://mensa.jp/exam/index/notice/id/702/"
     }
   },
-  "last_checked": "2026-05-02T14:37:10.392635"
+  "last_checked": "2026-05-02T15:29:20.302846"
 }
