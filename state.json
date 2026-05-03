@@ -74,8 +74,8 @@
       "id": "8495852717af",
       "pref": "石川県 \n 6/21",
       "date": "日時 ： 2026/06/21(日)　15:00~16:00 \n\t\t\t\t場所 ： 石川県金沢市 \n\t\t\t\tこのテストは石川県、富山県、福井県、新潟県、群馬県の方のみお申込みいただけます。",
-      "status": "available",
-      "url": "https://mensa.jp/exam/index/notice/id/725/"
+      "status": "full",
+      "url": ""
     },
     "316a0ddf8869": {
       "id": "316a0ddf8869",
@@ -155,5 +155,5 @@
       "url": "https://mensa.jp/exam/index/notice/id/702/"
     }
   },
-  "last_checked": "2026-05-03T15:58:51.897837"
+  "last_checked": "2026-05-03T16:57:22.272122"
 }
