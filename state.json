@@ -144,8 +144,8 @@
       "id": "d0c31dcd6fd5",
       "pref": "沖縄県 \n 5/24",
       "date": "日時 ： 2026/05/24(日)　13:30~14:30 \n\t\t\t\t場所 ： 沖縄県那覇市 \n\t\t\t\tこのテストには、沖縄県、鹿児島県在住の方のみ申し込めます。",
-      "status": "available",
-      "url": "https://mensa.jp/exam/index/notice/id/701/"
+      "status": "full",
+      "url": ""
     },
     "f5a215b9fb4a": {
       "id": "f5a215b9fb4a",
@@ -155,5 +155,5 @@
       "url": "https://mensa.jp/exam/index/notice/id/702/"
     }
   },
-  "last_checked": "2026-05-06T11:28:59.627723"
+  "last_checked": "2026-05-06T13:15:34.428305"
 }
