@@ -116,8 +116,8 @@
       "id": "0cf1163b71e1",
       "pref": "広島県 \n 5/31",
       "date": "日時 ： 2026/05/31(日)　16:30~17:30 \n\t\t\t\t場所 ： 広島県広島市中区 \n\t\t\t\tこのテストには、広島県、岡山県、山口県、島根県、鳥取県在住の方が申し込めます。",
-      "status": "available",
-      "url": "https://mensa.jp/exam/index/notice/id/711/"
+      "status": "full",
+      "url": ""
     },
     "d0c31dcd6fd5": {
       "id": "d0c31dcd6fd5",
@@ -134,5 +134,5 @@
       "url": "https://mensa.jp/exam/index/notice/id/702/"
     }
   },
-  "last_checked": "2026-05-11T13:49:16.410259"
+  "last_checked": "2026-05-11T16:20:38.470620"
 }
