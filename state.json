@@ -18,8 +18,8 @@
       "id": "9c2a51f2c063",
       "pref": "北海道 \n 6/13",
       "date": "日時 ： 2026/06/13(土)　15:30～16:30 \n\t\t\t\t場所 ： 北海道札幌市北区 \n\t\t\t\tこのテストには、北海道在住の方がお申込みできます。",
-      "status": "full",
-      "url": ""
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/717/"
     },
     "d02e113f133c": {
       "id": "d02e113f133c",
@@ -102,8 +102,8 @@
       "id": "b6459e73728b",
       "pref": "広島県 \n 5/31",
       "date": "日時 ： 2026/05/31(日)　13:00~14:00 \n\t\t\t\t場所 ： 広島県広島市中区 \n\t\t\t\tこのテストには、広島県、岡山県、山口県、島根県、鳥取県在住の方が申し込めます。",
-      "status": "available",
-      "url": "https://mensa.jp/exam/index/notice/id/709/"
+      "status": "full",
+      "url": ""
     },
     "199c506ff578": {
       "id": "199c506ff578",
@@ -134,5 +134,5 @@
       "url": ""
     }
   },
-  "last_checked": "2026-05-17T01:29:33.383967"
+  "last_checked": "2026-05-17T05:29:12.474154"
 }
