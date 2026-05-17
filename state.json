@@ -18,8 +18,8 @@
       "id": "9c2a51f2c063",
       "pref": "北海道 \n 6/13",
       "date": "日時 ： 2026/06/13(土)　15:30～16:30 \n\t\t\t\t場所 ： 北海道札幌市北区 \n\t\t\t\tこのテストには、北海道在住の方がお申込みできます。",
-      "status": "available",
-      "url": "https://mensa.jp/exam/index/notice/id/717/"
+      "status": "full",
+      "url": ""
     },
     "d02e113f133c": {
       "id": "d02e113f133c",
@@ -134,5 +134,5 @@
       "url": ""
     }
   },
-  "last_checked": "2026-05-17T15:44:58.454302"
+  "last_checked": "2026-05-17T16:40:27.191386"
 }
