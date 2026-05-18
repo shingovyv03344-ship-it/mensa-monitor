@@ -88,22 +88,22 @@
       "id": "ca22c9016300",
       "pref": "東京都 \n 7/05",
       "date": "日時 ： 2026/07/05(日)　11:00~12:00 \n\t\t\t\t場所 ： 東京都港区 \n\t\t\t\tこのテストには、全国の方がお申込みいただけます。",
-      "status": "available",
-      "url": "https://mensa.jp/exam/index/notice/id/735/"
+      "status": "full",
+      "url": ""
     },
     "e3c6b20ba5c2": {
       "id": "e3c6b20ba5c2",
       "pref": "東京都 \n 7/05",
       "date": "日時 ： 2026/07/05(日)　13:00~14:00 \n\t\t\t\t場所 ： 東京都港区 \n\t\t\t\tこのテストには、全国の方がお申込みいただけます。",
-      "status": "available",
-      "url": "https://mensa.jp/exam/index/notice/id/736/"
+      "status": "full",
+      "url": ""
     },
     "55ff69bae5fd": {
       "id": "55ff69bae5fd",
       "pref": "東京都 \n 7/05",
       "date": "日時 ： 2026/07/05(日)　15:00~16:00 \n\t\t\t\t場所 ： 東京都港区 \n\t\t\t\tこのテストには、全国の方がお申込みいただけます。",
-      "status": "available",
-      "url": "https://mensa.jp/exam/index/notice/id/737/"
+      "status": "full",
+      "url": ""
     },
     "e4c913156990": {
       "id": "e4c913156990",
@@ -218,5 +218,5 @@
       "url": "https://mensa.jp/exam/index/notice/id/728/"
     }
   },
-  "last_checked": "2026-05-18T09:01:31.394532"
+  "last_checked": "2026-05-18T12:43:40.087558"
 }
