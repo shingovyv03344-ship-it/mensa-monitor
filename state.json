@@ -21,6 +21,27 @@
       "status": "full",
       "url": ""
     },
+    "ec5613564ff7": {
+      "id": "ec5613564ff7",
+      "pref": "宮城県 \n 7/18",
+      "date": "日時 ： 2026/07/18(土)　9:30~10:30 \n\t\t\t\t場所 ： 宮城県仙台市青葉区 \n\t\t\t\tこのテストには、宮城県、青森県、岩手県、秋田県、山形県、福島県、栃木県、茨城県在住の方が申し込めます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/732/"
+    },
+    "3cba431353d4": {
+      "id": "3cba431353d4",
+      "pref": "宮城県 \n 7/18",
+      "date": "日時 ： 2026/07/18(土)　11:00~12:00 \n\t\t\t\t場所 ： 宮城県仙台市青葉区 \n\t\t\t\tこのテストには、宮城県、青森県、岩手県、秋田県、山形県、福島県、栃木県、茨城県在住の方が申し込めます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/733/"
+    },
+    "3ab6f98d5b74": {
+      "id": "3ab6f98d5b74",
+      "pref": "宮城県 \n 7/18",
+      "date": "日時 ： 2026/07/18(土)　12:30~13:30 \n\t\t\t\t場所 ： 宮城県仙台市青葉区 \n\t\t\t\tこのテストには、宮城県、青森県、岩手県、秋田県、山形県、福島県、栃木県、茨城県在住の方が申し込めます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/734/"
+    },
     "d02e113f133c": {
       "id": "d02e113f133c",
       "pref": "神奈川県 \n 5/23",
@@ -63,6 +84,27 @@
       "status": "full",
       "url": ""
     },
+    "ca22c9016300": {
+      "id": "ca22c9016300",
+      "pref": "東京都 \n 7/05",
+      "date": "日時 ： 2026/07/05(日)　11:00~12:00 \n\t\t\t\t場所 ： 東京都港区 \n\t\t\t\tこのテストには、全国の方がお申込みいただけます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/735/"
+    },
+    "e3c6b20ba5c2": {
+      "id": "e3c6b20ba5c2",
+      "pref": "東京都 \n 7/05",
+      "date": "日時 ： 2026/07/05(日)　13:00~14:00 \n\t\t\t\t場所 ： 東京都港区 \n\t\t\t\tこのテストには、全国の方がお申込みいただけます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/736/"
+    },
+    "55ff69bae5fd": {
+      "id": "55ff69bae5fd",
+      "pref": "東京都 \n 7/05",
+      "date": "日時 ： 2026/07/05(日)　15:00~16:00 \n\t\t\t\t場所 ： 東京都港区 \n\t\t\t\tこのテストには、全国の方がお申込みいただけます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/737/"
+    },
     "e4c913156990": {
       "id": "e4c913156990",
       "pref": "石川県 \n 6/21",
@@ -76,6 +118,27 @@
       "date": "日時 ： 2026/06/21(日)　15:00~16:00 \n\t\t\t\t場所 ： 石川県金沢市 \n\t\t\t\tこのテストは石川県、富山県、福井県、新潟県、群馬県の方のみお申込みいただけます。",
       "status": "full",
       "url": ""
+    },
+    "3bc507274b01": {
+      "id": "3bc507274b01",
+      "pref": "愛知県 \n 7/05",
+      "date": "日時 ： 2026/07/05(日)　11:00~12:00 \n\t\t\t\t場所 ： 愛知県名古屋市中村区 \n\t\t\t\tこのテストには、愛知県、岐阜県、三重県、静岡県、長野県、富山県、石川県、福井県在住の方が申し込めます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/729/"
+    },
+    "ed7833addb09": {
+      "id": "ed7833addb09",
+      "pref": "愛知県 \n 7/05",
+      "date": "日時 ： 2026/07/05(日)　13:30~14:30 \n\t\t\t\t場所 ： 愛知県名古屋市中村区 \n\t\t\t\tこのテストには、愛知県、岐阜県、三重県、静岡県、長野県、富山県、石川県、福井県在住の方が申し込めます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/730/"
+    },
+    "a32e9b3964f7": {
+      "id": "a32e9b3964f7",
+      "pref": "愛知県 \n 7/05",
+      "date": "日時 ： 2026/07/05(日)　15:30~16:30 \n\t\t\t\t場所 ： 愛知県名古屋市中村区 \n\t\t\t\tこのテストには、愛知県、岐阜県、三重県、静岡県、長野県、富山県、石川県、福井県在住の方が申し込めます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/731/"
     },
     "f7a68d2636ad": {
       "id": "f7a68d2636ad",
@@ -132,7 +195,28 @@
       "date": "日時 ： 2026/05/24(日)　15:30~16:30 \n\t\t\t\t場所 ： 沖縄県那覇市 \n\t\t\t\tこのテストには、沖縄県、鹿児島県在住の方のみ申し込めます。",
       "status": "unknown",
       "url": ""
+    },
+    "f56bdb1ea29c": {
+      "id": "f56bdb1ea29c",
+      "pref": "福岡県 \n 7/05",
+      "date": "日時 ： 2026/07/05(日)　10:00~11:00 \n\t\t\t\t場所 ： 福岡県福岡市博多区 \n\t\t\t\tこのテストには、福岡県、佐賀県、長崎県、熊本県、大分県、宮崎県、鹿児島県、沖縄県在住の方が申し込めます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/726/"
+    },
+    "3dce7b99d636": {
+      "id": "3dce7b99d636",
+      "pref": "福岡県 \n 7/05",
+      "date": "日時 ： 2026/07/05(日)　13:00~14:00 \n\t\t\t\t場所 ： 福岡県福岡市博多区 \n\t\t\t\tこのテストには、福岡県、佐賀県、長崎県、熊本県、大分県、宮崎県、鹿児島県、沖縄県在住の方が申し込めます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/727/"
+    },
+    "cd3ba8a24243": {
+      "id": "cd3ba8a24243",
+      "pref": "福岡県 \n 7/05",
+      "date": "日時 ： 2026/07/05(日)　15:00~16:00 \n\t\t\t\t場所 ： 福岡県福岡市博多区 \n\t\t\t\tこのテストには、福岡県、佐賀県、長崎県、熊本県、大分県、宮崎県、鹿児島県、沖縄県在住の方が申し込めます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/728/"
     }
   },
-  "last_checked": "2026-05-18T05:50:26.953949"
+  "last_checked": "2026-05-18T09:01:31.394532"
 }
