@@ -137,8 +137,8 @@
       "id": "a32e9b3964f7",
       "pref": "愛知県 \n 7/05",
       "date": "日時 ： 2026/07/05(日)　15:30~16:30 \n\t\t\t\t場所 ： 愛知県名古屋市中村区 \n\t\t\t\tこのテストには、愛知県、岐阜県、三重県、静岡県、長野県、富山県、石川県、福井県在住の方が申し込めます。",
-      "status": "available",
-      "url": "https://mensa.jp/exam/index/notice/id/731/"
+      "status": "full",
+      "url": ""
     },
     "f7a68d2636ad": {
       "id": "f7a68d2636ad",
@@ -218,5 +218,5 @@
       "url": "https://mensa.jp/exam/index/notice/id/728/"
     }
   },
-  "last_checked": "2026-05-20T05:48:00.057217"
+  "last_checked": "2026-05-20T08:45:48.199858"
 }
