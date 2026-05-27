@@ -193,8 +193,8 @@
       "id": "3dce7b99d636",
       "pref": "福岡県 \n 7/05",
       "date": "日時 ： 2026/07/05(日)　13:00~14:00 \n\t\t\t\t場所 ： 福岡県福岡市博多区 \n\t\t\t\tこのテストには、福岡県、佐賀県、長崎県、熊本県、大分県、宮崎県、鹿児島県、沖縄県在住の方が申し込めます。",
-      "status": "available",
-      "url": "https://mensa.jp/exam/index/notice/id/727/"
+      "status": "full",
+      "url": ""
     },
     "cd3ba8a24243": {
       "id": "cd3ba8a24243",
@@ -204,5 +204,5 @@
       "url": "https://mensa.jp/exam/index/notice/id/728/"
     }
   },
-  "last_checked": "2026-05-27T21:20:30.494664"
+  "last_checked": "2026-05-27T22:53:16.117400"
 }
