@@ -193,8 +193,8 @@
       "id": "52d31fe28ddc",
       "pref": "大阪府 \n 8/29",
       "date": "日時 ： 2026/08/29(土)　15:00~16:00 \n\t\t\t\t場所 ： 大阪府大阪市北区 \n\t\t\t\tこのテストには、大阪府、滋賀県、京都府、兵庫県、奈良県、和歌山県在住の方が申し込めます。",
-      "status": "available",
-      "url": "https://mensa.jp/exam/index/notice/id/754/"
+      "status": "full",
+      "url": ""
     },
     "dad79772cd0c": {
       "id": "dad79772cd0c",
@@ -239,5 +239,5 @@
       "url": ""
     }
   },
-  "last_checked": "2026-06-19T14:30:50.983450"
+  "last_checked": "2026-06-19T16:59:59.462489"
 }
