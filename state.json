@@ -158,8 +158,8 @@
       "id": "d9e8d30629a6",
       "pref": "奈良県 \n 8/23",
       "date": "日時 ： 2026/08/23(日)　11:00~12:00 \n\t\t\t\t場所 ： 奈良県奈良市 \n\t\t\t\tこのテストには、全国の方がお申込みいただけます。",
-      "status": "available",
-      "url": "https://mensa.jp/exam/index/notice/id/741/"
+      "status": "full",
+      "url": ""
     },
     "e9965899a0a1": {
       "id": "e9965899a0a1",
@@ -239,5 +239,5 @@
       "url": ""
     }
   },
-  "last_checked": "2026-06-20T09:41:11.933632"
+  "last_checked": "2026-06-20T11:33:45.618063"
 }
