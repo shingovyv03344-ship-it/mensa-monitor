@@ -4,8 +4,8 @@
       "id": "ec5613564ff7",
       "pref": "宮城県 \n 7/18",
       "date": "日時 ： 2026/07/18(土)　9:30~10:30 \n\t\t\t\t場所 ： 宮城県仙台市青葉区 \n\t\t\t\tこのテストには、宮城県、青森県、岩手県、秋田県、山形県、福島県、栃木県、茨城県在住の方が申し込めます。",
-      "status": "full",
-      "url": ""
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/732/"
     },
     "3cba431353d4": {
       "id": "3cba431353d4",
@@ -141,5 +141,5 @@
       "url": "https://mensa.jp/exam/index/notice/id/749/"
     }
   },
-  "last_checked": "2026-07-05T16:15:56.199405"
+  "last_checked": "2026-07-05T17:32:55.731298"
 }
