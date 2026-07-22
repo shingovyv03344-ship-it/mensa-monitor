@@ -102,8 +102,8 @@
       "id": "dad79772cd0c",
       "pref": "広島県 \n 8/23",
       "date": "日時 ： 2026/08/23(日)　11:00~12:00 \n\t\t\t\t場所 ： 広島県広島市中区 \n\t\t\t\tこのテストには、広島県、岡山県、山口県、島根県、鳥取県在住の方が申し込めます。",
-      "status": "available",
-      "url": "https://mensa.jp/exam/index/notice/id/747/"
+      "status": "full",
+      "url": ""
     },
     "7c47cd20e4c8": {
       "id": "7c47cd20e4c8",
@@ -120,5 +120,5 @@
       "url": "https://mensa.jp/exam/index/notice/id/749/"
     }
   },
-  "last_checked": "2026-07-21T23:31:43.607889"
+  "last_checked": "2026-07-22T01:00:11.074581"
 }
