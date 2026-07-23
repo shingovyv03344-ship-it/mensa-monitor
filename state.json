@@ -46,8 +46,8 @@
       "id": "d6053749e2e2",
       "pref": "富山県 \n 8/09",
       "date": "日時 ： 2026/08/09(日)　13:30~14:30 \n\t\t\t\t場所 ： 富山県富山市 \n\t\t\t\tこのテストは富山県、石川県、新潟県、福井県、長野県、群馬県の方のみお申込みいただけます。",
-      "status": "available",
-      "url": "https://mensa.jp/exam/index/notice/id/750/"
+      "status": "full",
+      "url": ""
     },
     "8acc6b13f84c": {
       "id": "8acc6b13f84c",
@@ -120,5 +120,5 @@
       "url": "https://mensa.jp/exam/index/notice/id/749/"
     }
   },
-  "last_checked": "2026-07-23T04:25:02.484052"
+  "last_checked": "2026-07-23T07:03:29.781623"
 }
