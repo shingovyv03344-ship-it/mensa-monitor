@@ -74,15 +74,15 @@
       "id": "49a6065d9e10",
       "pref": "神奈川県 \n 9/13",
       "date": "日時 ： 2026/09/13(日)　13:30~14:30 \n\t\t\t\t場所 ： 神奈川県横浜市西区 \n\t\t\t\tこのテストには、全国の方がお申込みいただけます。",
-      "status": "available",
-      "url": "https://mensa.jp/exam/index/notice/id/756/"
+      "status": "full",
+      "url": ""
     },
     "506f7ed9265e": {
       "id": "506f7ed9265e",
       "pref": "神奈川県 \n 9/13",
       "date": "日時 ： 2026/09/13(日)　15:30~16:30 \n\t\t\t\t場所 ： 神奈川県横浜市西区 \n\t\t\t\tこのテストには、全国の方がお申込みいただけます。",
-      "status": "available",
-      "url": "https://mensa.jp/exam/index/notice/id/757/"
+      "status": "full",
+      "url": ""
     },
     "306dce471ddb": {
       "id": "306dce471ddb",
@@ -225,5 +225,5 @@
       "url": "https://mensa.jp/exam/index/notice/id/760/"
     }
   },
-  "last_checked": "2026-07-25T04:22:40.646724"
+  "last_checked": "2026-07-25T06:34:01.638304"
 }
