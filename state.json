@@ -1,5 +1,26 @@
 {
   "exams": {
+    "f782f544bb51": {
+      "id": "f782f544bb51",
+      "pref": "北海道 \n 9/06",
+      "date": "日時 ： 2026/09/06(日)　12:00~13:00 \n\t\t\t\t場所 ： 北海道札幌市中央区 \n\t\t\t\tこのテストには、北海道在住の方がお申込みできます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/768/"
+    },
+    "2bf11b32e49c": {
+      "id": "2bf11b32e49c",
+      "pref": "北海道 \n 9/06",
+      "date": "日時 ： 2026/09/06(日)　13:30~14:30 \n\t\t\t\t場所 ： 北海道札幌市中央区 \n\t\t\t\tこのテストには、北海道在住の方がお申込みできます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/769/"
+    },
+    "6b2189893aef": {
+      "id": "6b2189893aef",
+      "pref": "北海道 \n 9/06",
+      "date": "日時 ： 2026/09/06(日)　10:00~11:00 \n\t\t\t\t場所 ： 北海道札幌市中央区 \n\t\t\t\tこのテストには、北海道在住の方がお申込みできます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/767/"
+    },
     "f2cf46c5b1c2": {
       "id": "f2cf46c5b1c2",
       "pref": "神奈川県 \n 7/26",
@@ -41,6 +62,48 @@
       "date": "日時 ： 2026/08/09(日)　15:00~16:00 \n\t\t\t\t場所 ： 東京都千代田区 \n\t\t\t\tこのテストには、全国の方がお申込みいただけます。",
       "status": "full",
       "url": ""
+    },
+    "c7cded463b69": {
+      "id": "c7cded463b69",
+      "pref": "神奈川県 \n 9/13",
+      "date": "日時 ： 2026/09/13(日)　11:30~12:30 \n\t\t\t\t場所 ： 神奈川県横浜市西区 \n\t\t\t\tこのテストには、全国の方がお申込みいただけます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/755/"
+    },
+    "49a6065d9e10": {
+      "id": "49a6065d9e10",
+      "pref": "神奈川県 \n 9/13",
+      "date": "日時 ： 2026/09/13(日)　13:30~14:30 \n\t\t\t\t場所 ： 神奈川県横浜市西区 \n\t\t\t\tこのテストには、全国の方がお申込みいただけます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/756/"
+    },
+    "506f7ed9265e": {
+      "id": "506f7ed9265e",
+      "pref": "神奈川県 \n 9/13",
+      "date": "日時 ： 2026/09/13(日)　15:30~16:30 \n\t\t\t\t場所 ： 神奈川県横浜市西区 \n\t\t\t\tこのテストには、全国の方がお申込みいただけます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/757/"
+    },
+    "306dce471ddb": {
+      "id": "306dce471ddb",
+      "pref": "東京都 \n 9/27",
+      "date": "日時 ： 2026/09/27(日)　14:00~15:00 \n\t\t\t\t場所 ： 東京都港区 \n\t\t\t\tこのテストには、全国の方がお申込みいただけます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/761/"
+    },
+    "c38b2f43cbe9": {
+      "id": "c38b2f43cbe9",
+      "pref": "東京都 \n 9/27",
+      "date": "日時 ： 2026/09/27(日)　15:45~16:45 \n\t\t\t\t場所 ： 東京都港区 \n\t\t\t\tこのテストには、全国の方がお申込みいただけます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/762/"
+    },
+    "c48edda16fa0": {
+      "id": "c48edda16fa0",
+      "pref": "東京都 \n 9/27",
+      "date": "日時 ： 2026/09/27(日)　17:30~18:30 \n\t\t\t\t場所 ： 東京都港区 \n\t\t\t\tこのテストには、全国の方がお申込みいただけます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/763/"
     },
     "d6053749e2e2": {
       "id": "d6053749e2e2",
@@ -98,6 +161,27 @@
       "status": "full",
       "url": ""
     },
+    "bf6a1e7ce2fd": {
+      "id": "bf6a1e7ce2fd",
+      "pref": "京都府 \n 9/12",
+      "date": "日時 ： 2026/09/12(土)　9:30~10:30 \n\t\t\t\t場所 ： 京都府京都市下京区 \n\t\t\t\tこのテストには、京都府、大阪府、兵庫県、奈良県、和歌山県、滋賀県、三重県在住の方が申し込めます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/764/"
+    },
+    "19218d27e9a7": {
+      "id": "19218d27e9a7",
+      "pref": "京都府 \n 9/12",
+      "date": "日時 ： 2026/09/12(土)　11:00~12:00 \n\t\t\t\t場所 ： 京都府京都市下京区 \n\t\t\t\tこのテストには、京都府、大阪府、兵庫県、奈良県、和歌山県、滋賀県、三重県在住の方が申し込めます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/765/"
+    },
+    "fa482df01f47": {
+      "id": "fa482df01f47",
+      "pref": "京都府 \n 9/12",
+      "date": "日時 ： 2026/09/12(土)　12:30~13:30 \n\t\t\t\t場所 ： 京都府京都市下京区 \n\t\t\t\tこのテストには、京都府、大阪府、兵庫県、奈良県、和歌山県、滋賀県、三重県在住の方が申し込めます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/766/"
+    },
     "dad79772cd0c": {
       "id": "dad79772cd0c",
       "pref": "広島県 \n 8/23",
@@ -118,7 +202,28 @@
       "date": "日時 ： 2026/08/23(日)　15:30~16:30 \n\t\t\t\t場所 ： 広島県広島市中区 \n\t\t\t\tこのテストには、広島県、岡山県、山口県、島根県、鳥取県在住の方が申し込めます。",
       "status": "full",
       "url": ""
+    },
+    "3677378a4c7d": {
+      "id": "3677378a4c7d",
+      "pref": "熊本県 \n 9/05",
+      "date": "日時 ： 2026/09/05(土)　11:00~12:00 \n\t\t\t\t場所 ： 熊本県熊本市中央区 \n\t\t\t\tこのテストには、熊本県、福岡県、佐賀県、長崎県、大分県、宮崎県、鹿児島県、沖縄県在住の方が申し込めます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/758/"
+    },
+    "8b6330c97a96": {
+      "id": "8b6330c97a96",
+      "pref": "熊本県 \n 9/05",
+      "date": "日時 ： 2026/09/05(土)　13:30~14:30 \n\t\t\t\t場所 ： 熊本県熊本市中央区 \n\t\t\t\tこのテストには、熊本県、福岡県、佐賀県、長崎県、大分県、宮崎県、鹿児島県、沖縄県在住の方が申し込めます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/759/"
+    },
+    "cbf4934e3d6a": {
+      "id": "cbf4934e3d6a",
+      "pref": "熊本県 \n 9/05",
+      "date": "日時 ： 2026/09/05(土)　15:30~16:30 \n\t\t\t\t場所 ： 熊本県熊本市中央区 \n\t\t\t\tこのテストには、熊本県、福岡県、佐賀県、長崎県、大分県、宮崎県、鹿児島県、沖縄県在住の方が申し込めます。",
+      "status": "available",
+      "url": "https://mensa.jp/exam/index/notice/id/760/"
     }
   },
-  "last_checked": "2026-07-24T23:34:33.435606"
+  "last_checked": "2026-07-25T01:06:11.459667"
 }
