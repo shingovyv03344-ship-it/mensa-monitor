@@ -1,10 +1,10 @@
 name: MENSA Exam Monitor
 
 on:
-  schedule:
-    # 5分おきに実行（UTC）
-    - cron: '*/5 * * * *'
-  workflow_dispatch:  # 手動実行も可能
+  # schedule:
+  #   # 5分おきに実行（UTC）
+  #   - cron: '*/5 * * * *'
+  workflow_dispatch:  # 手動実行のみ（受験登録完了につき定期実行停止）
 
 jobs:
   monitor:
